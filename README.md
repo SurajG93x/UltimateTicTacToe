@@ -1,4 +1,1 @@
-# UltimateTicTacToe
-Deployed using Python.
-The game does not have a UI
-It is run on the terminal
+# Ultimate_Tic_Tac_Toe_GameAI
